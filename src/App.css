@@ -1,0 +1,24 @@
+.App{
+  background-color: #5EBEC4;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  border-radius: 10px;
+}
+.form-control{
+  margin: 40px;
+  padding: 10px;
+}
+.btnForm{
+width: 90px;
+height: 30px;
+margin: auto;
+}
+.btnList{
+  display: right;
+  margin: 5px;
+  margin-left: 10px;
+
+}
+
+
